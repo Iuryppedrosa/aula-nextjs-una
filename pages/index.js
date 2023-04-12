@@ -30,10 +30,8 @@ function HomePage(){
             <button
                 className={buttonStyles.button}
                 onClick={() => {
-                    //console.log("Hello");
-                    alert("Hello Iury!!!");
-                    alert("{Maravilha dj}!!!");
                     alert("Ok");
+                    alert("teste");
                 }}
             >
                 I'm a button
