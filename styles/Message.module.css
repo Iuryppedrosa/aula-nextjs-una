@@ -1,0 +1,17 @@
+.message {
+    padding: 20px 15px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+
+  .success {
+    composes: message;
+    background: #4caf50;
+  }
+  
+  
+  .error {
+    composes: message;
+    background: #f44336;
+  }
