@@ -32,7 +32,8 @@ function HomePage(){
                 onClick={() => {
                     //console.log("Hello");
                     alert("Hello Iury!!!");
-                    alert("Teeste!!!")
+                    alert("{Maravilha dj}!!!");
+                    alert("Ok");
                 }}
             >
                 I'm a button
